@@ -1,2 +1,2 @@
-# type_of_files
-in any directorys, you can run this code. "type_of_files" will actually sort your files by their types. it`ll create some directorys, but with specific name! you need to run this code by "./types.sh" in terminal.
+Hi again! So it's a funny code I wrote one day for a Linux course. There's nothing special about it.
+This code can be run in any directory. The sorting function "type_of_files" will actually sort your files by their types. It will create some directories, but with specific names! To run this code, you must use ". /types.sh" in the terminal.
